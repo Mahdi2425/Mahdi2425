@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there 👋, I'm Mahdi  
 
-<!--
-**Mahdi2425/Mahdi2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Passionate developer with a focus on **C#, Blazor, and ASP.NET Core**  
+- 🌱 Constantly learning and improving my skills in modern web and desktop development  
+- ⚡ Interested in **real-time applications** and **scalable system design**  
+- 🎯 Motivated by problem-solving and building practical solutions  
+- 🌍 Open to collaboration and always curious to explore new technologies  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
