@@ -1,18 +1,5 @@
 # Hi there 👋, I'm Mahdi  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&lines=Passionate+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
----
-
-## 🚀 About Me
-- 💻 Passionate developer with a focus on **C#, Blazor, and ASP.NET Core**  
-- 🌱 Constantly learning and improving my skills in modern web and desktop development  
-- ⚡ Interested in **real-time applications** and **scalable system design**  
-- 🎯 Motivated by problem-solving and building practical solutions  
-- 🌍 Open to collaboration and always curious to explore new technologies  
-
----
-
 ## 🛠️ Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
