@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mahdi  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&lines=Passionate+Developer;C%23+%7C+Kotlin+%7C+Jetpack+Compose;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&lines=Passionate+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ---
 
