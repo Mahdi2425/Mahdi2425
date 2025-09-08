@@ -11,6 +11,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack&logoColor=white)
 
 ---
+![GitHub Contribution Graph](https://ghchart.rshah.org/Mahdi2425)
 
 ## 🔗 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahdighomipv)  
