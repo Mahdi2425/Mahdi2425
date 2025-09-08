@@ -38,10 +38,4 @@
 
 ## 🔗 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahdighomipv)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
----
-
-![Snake animation](https://github.com/Mahdi2425/Mahdi2425/blob/output/github-contribution-grid-snake.svg)
-
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ghomimahdi6@email.com)
