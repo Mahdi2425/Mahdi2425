@@ -12,17 +12,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi2425&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi2425&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mahdi2425&theme=radical&no-frame=true&margin-w=15)
-
----
-
 ## 🔗 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahdighomipv)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ghomimahdi6@email.com)
