@@ -1,10 +1,10 @@
-<table>
+<table width="100%" border="0">
 <tr>
-<td valign="center">
+<td width="70%" align="left" valign="middle" style="border: none;">
 <h1>Hi there 👋, I'm Mahdi</h1>
 <p>Backend Developer | .NET & C#</p>
 </td>
-<td align="right">
+<td width="30%" align="right" valign="middle" style="border: none;">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="200" alt="Programmer coding">
 </td>
 </tr>
