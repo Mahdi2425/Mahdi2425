@@ -29,8 +29,9 @@
 ## 🔗 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahdighomipv)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ghomimahdi6@email.com)
-
-
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
+     width="200"
+     align="right">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Mahdi2425&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Mahdi2425&theme=dark&hide_border=false)<br/>
